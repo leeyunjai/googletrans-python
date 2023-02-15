@@ -11,7 +11,7 @@ setup(
     name                = 'googletrans-python',
     version             = VERSION,
     description         = 'googletrans-python package.',
-    long_description    = readme,
+    long_description    = "googletrans",
     author              = "leeyunjai",
     author_email        = 'leeyunjai1982@gmail.com',
     url                 = 'https://github.com/leeyunjai/googletrans-python',
