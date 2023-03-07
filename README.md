@@ -13,6 +13,8 @@ pip3 install googletrans-python
 ## Usage
 translate(TEXT, target_language_code)
 
+https://www.labnol.org/code/19899-google-translate-languages
+
 ```python
 import googletrans as gt
 
